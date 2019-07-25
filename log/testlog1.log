@@ -1,0 +1,62 @@
+2019-07-15 16:30:11,967 [main] INFO Guru99LiveProject - HomePage elements initialized
+2019-07-15 16:30:11,992 [main] INFO Guru99LiveProject - HomePage title has been read
+2019-07-15 16:30:11,996 [main] INFO Guru99LiveProject - HomePage Title Verified successfully
+2019-07-15 17:23:11,583 [main] INFO Guru99LiveProject - HomePage elements initialized
+2019-07-15 17:23:11,611 [main] INFO Guru99LiveProject - HomePage title has been read
+2019-07-15 17:23:11,616 [main] INFO Guru99LiveProject - HomePage Title Verified successfully
+2019-07-15 17:23:40,069 [main] INFO Guru99LiveProject - HomePage elements initialized
+2019-07-15 17:23:40,095 [main] INFO Guru99LiveProject - HomePage title has been read
+2019-07-15 17:23:40,100 [main] INFO Guru99LiveProject - HomePage Title Verified successfully
+2019-07-15 17:26:58,370 [main] INFO Guru99LiveProject - HomePage elements initialized
+2019-07-15 17:26:58,385 [main] INFO Guru99LiveProject - HomePage title has been read
+2019-07-15 17:26:58,401 [main] INFO Guru99LiveProject - HomePage Title Verified successfully
+2019-07-15 17:27:03,809 [main] INFO Guru99LiveProject - Home Page label verified successfully
+2019-07-15 17:29:32,383 [main] INFO Guru99LiveProject - HomePage elements initialized
+2019-07-15 17:29:32,398 [main] INFO Guru99LiveProject - HomePage title has been read
+2019-07-15 17:29:32,398 [main] INFO Guru99LiveProject - HomePage Title Verified successfully
+2019-07-15 17:29:32,488 [main] INFO Guru99LiveProject - Home Page label verified successfully
+2019-07-15 17:30:49,284 [main] INFO Guru99LiveProject - HomePage elements initialized
+2019-07-15 17:30:49,300 [main] INFO Guru99LiveProject - HomePage title has been read
+2019-07-15 17:30:49,300 [main] INFO Guru99LiveProject - HomePage Title Verified successfully
+2019-07-15 17:31:34,708 [main] INFO Guru99LiveProject - Home Page label verified successfully
+2019-07-15 17:31:34,725 [main] INFO Guru99LiveProject - HomePage elements initialized
+2019-07-15 17:31:34,736 [main] INFO Guru99LiveProject - HomePage title has been read
+2019-07-15 17:31:34,737 [main] INFO Guru99LiveProject - HomePage Title Verified successfully
+2019-07-15 17:33:15,161 [main] INFO Guru99LiveProject - HomePage elements initialized
+2019-07-15 17:33:15,179 [main] INFO Guru99LiveProject - HomePage title has been read
+2019-07-15 17:33:15,180 [main] INFO Guru99LiveProject - HomePage Title Verified successfully
+2019-07-15 17:33:15,223 [main] INFO Guru99LiveProject - Home Page label verified successfully
+2019-07-15 17:36:34,060 [main] INFO Guru99LiveProject - HomePage elements initialized
+2019-07-15 17:41:20,787 [main] INFO Guru99LiveProject - HomePage elements initialized
+2019-07-15 17:46:22,293 [main] INFO Guru99LiveProject - Home Page label verified successfully
+2019-07-15 17:46:22,307 [main] INFO Guru99LiveProject - HomePage elements initialized
+2019-07-15 17:46:22,316 [main] INFO Guru99LiveProject - HomePage title has been read
+2019-07-15 17:46:22,316 [main] INFO Guru99LiveProject - HomePage Title Verified successfully
+2019-07-15 17:55:39,442 [main] INFO Guru99LiveProject - Home Page label verified successfully
+2019-07-15 17:55:44,202 [main] INFO Guru99LiveProject - HomePage elements initialized
+2019-07-15 17:55:44,212 [main] INFO Guru99LiveProject - HomePage title has been read
+2019-07-15 17:55:44,213 [main] INFO Guru99LiveProject - HomePage Title Verified successfully
+2019-07-15 18:38:52,295 [main] INFO Guru99LiveProject - Home Page label verified successfully
+2019-07-15 18:38:57,345 [main] INFO Guru99LiveProject - HomePage elements initialized
+2019-07-15 18:38:57,359 [main] INFO Guru99LiveProject - HomePage title has been read
+2019-07-15 18:38:57,360 [main] INFO Guru99LiveProject - HomePage Title Verified successfully
+2019-07-15 18:43:22,009 [main] INFO Guru99LiveProject - HomePage elements initialized
+2019-07-15 18:43:22,025 [main] INFO Guru99LiveProject - HomePage title has been read
+2019-07-15 18:43:22,026 [main] INFO Guru99LiveProject - HomePage Title Verified successfully
+2019-07-15 19:16:48,819 [main] INFO Guru99LiveProject - Screenshot has been taken for Test Case: verifyHomePageLabel
+2019-07-15 19:16:53,899 [main] INFO Guru99LiveProject - HomePage elements initialized
+2019-07-15 19:16:53,909 [main] INFO Guru99LiveProject - HomePage title has been read
+2019-07-15 19:16:53,910 [main] INFO Guru99LiveProject - HomePage Title Verified successfully
+2019-07-15 19:17:00,266 [main] INFO Guru99LiveProject - Screenshot has been taken for Test Case: verifyMobilePageTitle
+2019-07-18 11:42:12,314 [main] INFO Guru99LiveProject - Screenshot has been taken for Test Case: verifyHomePageLabel
+2019-07-18 11:42:19,196 [main] INFO Guru99LiveProject - HomePage elements initialized
+2019-07-18 11:42:19,206 [main] INFO Guru99LiveProject - HomePage title has been read
+2019-07-18 11:42:25,841 [main] INFO Guru99LiveProject - Screenshot has been taken for Test Case: verifyMobilePageTitle
+2019-07-18 11:44:29,722 [main] INFO Guru99LiveProject - Screenshot has been taken for Test Case: verifyHomePageLabel
+2019-07-18 11:44:35,010 [main] INFO Guru99LiveProject - HomePage elements initialized
+2019-07-18 11:44:35,021 [main] INFO Guru99LiveProject - HomePage title has been read
+2019-07-18 11:44:41,903 [main] INFO Guru99LiveProject - Screenshot has been taken for Test Case: verifyMobilePageTitle
+2019-07-18 12:45:19,721 [main] INFO Guru99LiveProject - Screenshot has been taken for Test Case: verifyHomePageLabel
+2019-07-18 12:45:24,558 [main] INFO Guru99LiveProject - HomePage elements initialized
+2019-07-18 12:45:24,567 [main] INFO Guru99LiveProject - HomePage title has been read
+2019-07-18 12:45:30,599 [main] INFO Guru99LiveProject - Screenshot has been taken for Test Case: verifyMobilePageTitle
