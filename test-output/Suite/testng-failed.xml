@@ -3,7 +3,7 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <listeners>
     <listener class-name="com.guru99.live.Utilities.Reporting"/>
-    <listener class-name="com.guru99.live.Utilities.Listener"/>
+    <listener class-name="com.guru99.live.Utilities.Listener_ITest"/>
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <parameter name="browser" value="Chrome"/>

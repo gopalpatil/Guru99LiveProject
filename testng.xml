@@ -4,7 +4,7 @@
 
 <listeners>
 <listener class-name="com.guru99.live.Utilities.Reporting" />
-<listener class-name="com.guru99.live.Utilities.Listener" />
+<listener class-name="com.guru99.live.Utilities.Listener_ITest" />
 </listeners>
   <test thread-count="5" name="Test">
   <parameter name="browser" value="Chrome" />

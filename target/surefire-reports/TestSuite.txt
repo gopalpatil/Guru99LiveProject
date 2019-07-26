@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 32.879 s <<< FAILURE! - in TestSuite
+verifyHomePageLabel(com.guru99.live.TestCases.TC_HomePageTest)  Time elapsed: 0.584 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.guru99.live.TestCases.TC_HomePageTest.verifyHomePageLabel(TC_HomePageTest.java:31)
+
+verifyMobilePageTitle(com.guru99.live.TestCases.TC_MobilePageTest)  Time elapsed: 1.718 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.guru99.live.TestCases.TC_MobilePageTest.verifyMobilePageTitle(TC_MobilePageTest.java:24)
+

@@ -60,3 +60,11 @@
 2019-07-18 12:45:24,558 [main] INFO Guru99LiveProject - HomePage elements initialized
 2019-07-18 12:45:24,567 [main] INFO Guru99LiveProject - HomePage title has been read
 2019-07-18 12:45:30,599 [main] INFO Guru99LiveProject - Screenshot has been taken for Test Case: verifyMobilePageTitle
+2019-07-25 18:27:21,456 [main] INFO Guru99LiveProject - Screenshot has been taken for Test Case: verifyHomePageLabel
+2019-07-25 18:27:26,860 [main] INFO Guru99LiveProject - HomePage elements initialized
+2019-07-25 18:27:26,878 [main] INFO Guru99LiveProject - HomePage title has been read
+2019-07-25 18:27:33,385 [main] INFO Guru99LiveProject - Screenshot has been taken for Test Case: verifyMobilePageTitle
+2019-07-26 00:09:29,737 [main] INFO Guru99LiveProject - Screenshot has been taken for Test Case: verifyHomePageLabel
+2019-07-26 00:09:35,534 [main] INFO Guru99LiveProject - HomePage elements initialized
+2019-07-26 00:09:35,565 [main] INFO Guru99LiveProject - HomePage title has been read
+2019-07-26 00:09:42,939 [main] INFO Guru99LiveProject - Screenshot has been taken for Test Case: verifyMobilePageTitle
